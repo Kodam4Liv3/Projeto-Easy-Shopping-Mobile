@@ -3,7 +3,7 @@
 <br>
 <h2>Este Foi Um Projeto Que Eu Aprendi No Curso de Formação FullStack Da DevClub</h2>
 
-<h2>Tecnologias Utilizadas</h2>
+<h2>Tecnologias Utilizadas:</h2>
 <br>
   <p>-HTML</p>
   <p>-CSS</p>  
