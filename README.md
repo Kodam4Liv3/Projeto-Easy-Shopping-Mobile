@@ -8,10 +8,10 @@
   <p>-HTML</p>
   <p>-CSS</p>  
 <br>
-<p>Este é um projeto responsivo, funciona tanto para Desktop</p>
+<p>Este é um projeto responsivo, funciona tanto para Desktop:</p>
 <br>
 <img src="https://github.com/Kodam4Liv3/Projeto-Easy-Shopping-Mobile/blob/main/ASSETS/SITE%20Responsivo%20Desktop.png?raw=true"/>
 
-<p>Como também funciona no Mobile</p>
+<p>Como também funciona no Mobile:</p>
 <br>
 <img src="https://github.com/Kodam4Liv3/Projeto-Easy-Shopping-Mobile/blob/main/ASSETS/SITE%20Responsivo%20Mobile.png?raw=true"/>
